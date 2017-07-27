@@ -1,0 +1,7 @@
+0- sudo usermod -a -G dialout username [robot_pc]
+1- yarprun --server /neurobot [connected pc name]
+2- ssh icub@10.0.0.2  
+3- yarprun --server /pc104
+4- manager.py justcamera640.xml
+4.1- run modules
+4.2- connect modules
