@@ -6,9 +6,10 @@ This repository consists of the data - including scripts, datasets, and images- 
 
 
 ## Folders and descriptions  
-**0- Spatial-pool-framework:**  This folder contains the framework used for feature extraction phase of the implemented pipeline. The framework adapted and modified based on following studies[1][2]. A visual pattern and the generated cortical representation of it are shown in the figure below.![Visual pattern and cortical represention ](Figures/io.png) 
+**0- Spatial-pool-framework:**  This folder contains the framework used for feature extraction phase of the implemented pipeline. The framework adapted and modified based on following studies[1][2]. A visual pattern and the generated cortical representation of it are shown in the figure below.![Visual pattern and cortical represention ](Figures/io.png)   
+**1- icub-camera-dataset:**  The dataset that constructed with the iCub humanoid robot's camera. The dataset contains 72 unprocessed color images for every object (3600 in total). We captured images of an object performing a full rotation in steps of approximately 5 degrees. A technical report for data acquisition procedure can be found in the same folder or in this [link](icub-camera-dataset/report/dataset_report.pdf).    
 
-	
+ 	
 
 ## References
 [1] Hawkins, J., Ahmad, S., and Dubinsky, D. (2011). [Hierarchical Temporal Memory Including htm Cortical Learning Algorithms.](http://numenta.org/resources/HTM_CorticalLearningAlgorithms.pdf)  
