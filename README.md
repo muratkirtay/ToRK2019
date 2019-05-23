@@ -1,4 +1,4 @@
-# Tork 2019
+# ToRK 2019
 
 This repository consists of the data - including scripts, datasets, and images- to reproduce the results of the submitted paper to Tork, rotation-nvariant object recognition by spatial feature extraction on a humanoid robot. 
 
