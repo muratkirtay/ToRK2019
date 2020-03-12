@@ -45,7 +45,7 @@ ordereddict==1.1
 pandas==0.19.2
 pluginlib==1.10.4
 prettytable==0.7.2
-psutil==1.0.1
+psutil==5.6.6
 pycapnp==0.5.8
 pyparsing==2.2.0
 pyproj==1.9.3
