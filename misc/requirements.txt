@@ -40,7 +40,7 @@ matplotlib==1.5.1
 message-filters==1.11.20
 mock==1.0.1
 music==1.1.15
-numpy==1.10.4
+numpy==1.21.0
 ordereddict==1.1
 pandas==0.19.2
 pluginlib==1.10.4
